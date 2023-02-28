@@ -2,7 +2,7 @@
 
 ### connect with me via:      
 <div>
-  <a href="https://www.linkedin.com/in/saleh-borhani-078099241/">
+  <a href="https://www.linkedin.com/in/alireza-pourchali-108b36248/">
      <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="linkedin" **alt="linkedin" width="40" height="40"/>
     
 </div> 
