@@ -1,6 +1,6 @@
 ### Hi there I'm Alireza Pourchali 👋 and I love DevOps. 
 
-### connect with me via:      
+### Connect with me via:      
 <div>
   <a href="https://www.linkedin.com/in/alireza-pourchali-108b36248/">
      <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="linkedin" **alt="linkedin" width="40" height="40"/>
