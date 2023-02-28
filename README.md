@@ -1,6 +1,6 @@
 ### Hi there I'm Alireza Pourchali 👋 and I love DevOps. 
 <div id="views counter" align=center>
-  <img src="https://komarev.com/ghpvc/?username=ArmanTaheriGhaleTaki&style=flat&color=orange" width="120" alt="views counter"/>
+  <img src="https://komarev.com/ghpvc/?username=AlirezaPourchali&style=flat&color=orange" width="120" alt="views counter"/>
 <div>
 ### connect with me via:      
 <div>
