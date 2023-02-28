@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there I'm Alireza Pourchali 👋 and I love DevOps. 
+
+### connect with me via:      
+<div>
+  <a href="https://www.linkedin.com/in/saleh-borhani-078099241/">
+     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="linkedin" **alt="linkedin" width="40" height="40"/>
+    
+</div> 
 
 <!--
 **AlirezaPourchali/AlirezaPourchali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
