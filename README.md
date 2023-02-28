@@ -1,11 +1,5 @@
 ### Hi there I'm Alireza Pourchali 👋 and I love DevOps. 
 
-### Connect with me via:      
-<div>
-  <a href="https://www.linkedin.com/in/alireza-pourchali-108b36248/">
-     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="linkedin" **alt="linkedin" width="40" height="40"/>
-    
-</div> 
 
 ### Languages and Tools:
 <div>
@@ -19,3 +13,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
 </div> 
+### Connect with me via:      
+<div>
+  <a href="https://www.linkedin.com/in/alireza-pourchali-108b36248/">
+     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="linkedin" **alt="linkedin" width="40" height="40"/>
+    
+</div> 
+
