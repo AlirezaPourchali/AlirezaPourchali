@@ -1,4 +1,4 @@
-### Hi there I'm Alireza Pourchali 👋 and I love DevOps. 
+### Hi there I'm Alireza Pourchali and I love DevOps. 
 
 
 ### Languages and Tools:
@@ -20,4 +20,8 @@
      <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="linkedin" **alt="linkedin" width="40" height="40"/>
     
 </div> 
+
+
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlirezaPourchali&show_icons=true&theme=tokyonight&border_radius=20&card_width=500&count_private=true)
 
