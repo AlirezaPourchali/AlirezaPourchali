@@ -22,6 +22,13 @@
 </div> 
 
 
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlirezaPourchali&show_icons=true&theme=tokyonight&border_radius=20&card_width=500&count_private=true)
+<details align="center">
+    <summary> <samp> Details</samp></summary>
+    <p align="center">
+        <br>
+        <img alt="Alireza GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AlirezaPourchali&show_icons=true&theme=tokyonight&border_radius=20&card_width=500&count_private=true" />
+        <br>
+        <br>
 
+
+</details>
