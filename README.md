@@ -1,4 +1,4 @@
-### Hi there I'm Alireza Pourchali and I love DevOps. 
+### Hi there I'm Alireza Pourchali and I love Linux. 
 
 
 ### Skills:
