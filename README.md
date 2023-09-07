@@ -24,3 +24,18 @@
 
 
 
+</div> 
+
+
+<details align="center">
+    <summary> <samp> Details</samp></summary>
+    <p align="center">
+        <br>
+        <img alt="Alireza GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaPourchali&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+" />
+        <br>
+        <br>
+
+
+</details>
+
