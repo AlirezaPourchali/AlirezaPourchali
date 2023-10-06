@@ -1,7 +1,8 @@
-### ${\color{lightgreen}➜}$ Hi there !
-### ${\color{green}➜}$ I'm Alireza Pourchali and I love Linux
+${\color{lightgreen}➜}$ Hi there !    
 
-  ### ${\color{darkgreen}➜}$ Skills:
+${\color{green}➜}$ I'm Alireza Pourchali and I love Linux
+
+${\color{darkgreen}➜}$ Skills:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
@@ -13,7 +14,7 @@
 
 </div> 
 
-### ${\color{lightblue}➜}$ Connect with me via:      
+${\color{lightblue}➜}$ Connect with me via:      
 <div>
   <a href="https://www.linkedin.com/in/alireza-pourchali-108b36248/">
      <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="linkedin" **alt="linkedin" width="40" height="40"/>
